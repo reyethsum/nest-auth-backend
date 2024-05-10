@@ -1,0 +1,5 @@
+
+######MONGO_URL=mongodb://localhost:27017/mean-db
+MONGO_URL=mongodb://mongo:MNPtKTSXWpDiyyNYAsWUSwsZCeyUivko@monorail.proxy.rlwy.net:26043
+MONGO_DB_NAME=auth-db
+JWT_SEED=Es_Una_Lave_Secreta_Pruebas
